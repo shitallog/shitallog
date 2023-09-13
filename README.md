@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @shital Katre
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning laravel 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋Hi  I'm shital katre
+- 👀I'm a Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+- Currently working as a Front-end Developer
+
 
 <!---
 shitallog/shitallog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
