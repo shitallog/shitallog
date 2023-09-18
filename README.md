@@ -22,3 +22,9 @@ All of my projects are available at Portfolio
 
 Connect with me:
 in/shital-katre-41910526b
+
+🤝 Languages and Tools:
+✔HTML5 ✔ javascript
+✔css  ✔laravel
+✔php ✔ mysql
+✔jquery  ✔bootstrap
