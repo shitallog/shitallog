@@ -21,7 +21,7 @@ All of my projects are available at Portfolio
 📄 Know more about me Resume
 
 Connect with me:
-in/shital-katre-41910526b
+📕in/shital-katre-41910526b
 
 🤝 Languages and Tools:
 ✔HTML5 ✔ javascript
