@@ -6,13 +6,13 @@ This is ME, Shital katre, from Nagpur, Maharastra, having a passion for web deve
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 Ask me about : Java, HTML, CSS, JavaScript, React,Software Engineering, Data Structures and Algorithms.
+💬 Ask me about : Java, HTML, CSS, JavaScript, React,Software Engineering.
 
 🥅 2023 Goals : Learning new things and contribute more
 
 All of my projects are available at Portfolio
 
-🌱 I’m currently learning React
+🌱 I’m currently learning laravel
 
 💬 Ask me about Java,Web Development, Javascript
 
