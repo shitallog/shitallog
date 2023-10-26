@@ -1,6 +1,6 @@
 Hi 👋, I'm Shital Katre
 
-This is ME, Shital katre, from Nagpur, Maharastra, having a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React, Nodejs and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
+This is ME, Shital katre, from Nagpur, Maharastra, having a Passionate Full Stack Developer . With expertise in HTML, CSS, Java, JavaScript, ES6+, React, Nodejs and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
 
 🌱 I’m currently learning : Full Stack Development (React and Node.js)
 
