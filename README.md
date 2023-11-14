@@ -28,3 +28,5 @@ Connect with me:
 ✔css  ✔laravel
 ✔php ✔ mysql
 ✔jquery  ✔bootstrap
+✔AJAX ✔JSON
+✔jquery
