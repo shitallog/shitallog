@@ -18,7 +18,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=AjayYadavAi&style=flat-square&color=blue" alt=""/>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Ajay Yadav (Full Stack Developer)
+    Shital katre (Full Stack Developer)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -34,12 +34,11 @@
 </p>
 - :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
 - 🌱 I’m currently learning: **Laravel**
-- :seedling: Exploring Technical YouTube Videos (Laravel Ecosystem).
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayyadavexpo) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](ajayyadavexpo@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/shital-katre-41910526b) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](Shitalkatre370@gmail.com)
 - YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<!-- - YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a> -->
+
 
 ---
 
@@ -68,6 +67,6 @@
 </div>
 ---
 ### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for AjayYadavAi" width="700">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=shitalkatreAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for shitalkatreAi" width="700">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shitalkatreAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for shitalkatreAi" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalkatreAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for shitalkatreAi" width="700" height="200">
