@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ajayyadavexpo/">
+    <a href="https://www.linkedin.com/in/shital-katre-41910526b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@ajay-yadav">
@@ -36,8 +36,8 @@
 - 🌱 I’m currently learning: **Laravel**
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/shital-katre-41910526b) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](Shitalkatre370@gmail.com)
-- YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shital-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/shital-katre-41910526b) [![Gmail Badge](https://img.shields.io/badge/-shital-white?style=flat&logo=Gmail&logoColor=red)](Shitalkatre370@gmail.com)
+- YouTube (6.5k) <a href="https://www.youtube.com/shital_katre370@gmail.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 
 
 ---
