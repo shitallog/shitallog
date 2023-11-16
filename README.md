@@ -65,8 +65,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  
 </div>
----
-### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=shitalkatreAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for shitalkatreAi" width="700">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=shitalkatreAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for shitalkatreAi" width="700">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalkatreAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for shitalkatreAi" width="700" height="200">
