@@ -5,13 +5,13 @@
     <a href="https://www.linkedin.com/in/shital-katre-41910526b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/@ajay-yadav">
+    <a href="https://www.youtube.com/shitalkatre370@gmail.com">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/ajayyadavexpo">
+    <a href="https://twitter.com/shitalkatre370@gmail.com">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.instagram.com/ajayyadavexpo">
+    <a href="https://www.instagram.com/shitalkatre">
       <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     
@@ -23,7 +23,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" width="600" height="300"/>
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="600" height="300"/>
 </div>
 ---
 ### Hi there 👋,
