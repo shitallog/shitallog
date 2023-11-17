@@ -33,6 +33,8 @@
   <br/>
 </p>
 - :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
+
+
 - :🌱 I’m currently learning: **Laravel**
 
 
