@@ -23,7 +23,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://zxhty.files.wordpress.com/2019/04/victoriousacademicgrassspider-max-1mb-2.gif" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/users/2001042/screenshots/4951997/developmentanimation.gif" width="600" height="300"/>
 </div>
 ---
 ### Hi there 👋,
