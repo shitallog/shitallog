@@ -28,7 +28,7 @@
 ---
 ### Hi there 👋,
 <p align="justify">
-  <samp>I'm <b>Shital katre</b> - a Full Stack Developer, Tech Enthusiast, Software Architect from Nagpur, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days. I have 1+ years of development experience in architecting, designing,  development and implementing of web applications, using Laravel and Web technologies.
+  <samp>I'm <b>Shital katre</b> - a Full Stack Developer, Tech Enthusiast, Software Architect from Nagpur, India. As a Developer, I want to build myself as an individual and a successful professional by learning new technologies which adds value to me. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs, Responsive Web Design and ChatGPT, software development stack in these days. I have 1+ years of development experience in architecting, designing,  development and implementing of web applications, using Laravel and Web technologies.
   </samp>
   <br/>
 </p>
