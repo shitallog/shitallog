@@ -3,4 +3,4 @@
 - 🌻 Thriving to survive
 - 🍀 Cheerful & Optimistic
 - 🐛 [My Portfolio](arpanarit.netlify.app)
-- 🐛 [My Portfolio](https://arpanarit.netlify.app/)
+
